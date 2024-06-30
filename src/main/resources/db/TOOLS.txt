@@ -1,0 +1,5 @@
+TOOL_CODE,TOOL_TYPE,BRAND
+CHNS,Chainsaw,Stihl
+LADW,Ladder,Werner
+JAKD,Jackhammer,DeWalt
+JAKR,Jackhammer,Ridgid
